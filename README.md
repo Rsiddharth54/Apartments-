@@ -1,1 +1,1 @@
-# Apartments-
+# Apartments- This project involved a data set involving apartments all over the U.S. It involved data cleaning, linear regression, mean sqaured error, and decision tree classifiers. It also consisted of data visuals such as Matplotlib, confusion matric display, and the use of another dataset for accuracy comparison purposes
